@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: black;
+  color: #00ff00;
+  font-family: monospace;
+}
+
+#root {
+  padding: 1rem;
+}
+
+.terminal-input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #00ff00;
+  font-family: monospace;
+  width: auto;
+  caret-color: #00ff00;
+}
+
+.ascii {
+  color: #ff3b3b;
+  white-space: pre-wrap;
+}
+
