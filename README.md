@@ -1,6 +1,6 @@
 # Cyberpunk Terminal Portfolio
 
-A hacker-themed portfolio site styled as a cyberpunk terminal. Built with React + Vite and deployed on GitHub Pages.
+A terminal-themed portfolio. Built with React + Vite and deployed on GitHub Pages.
 
 ### Features
 - Terminal-style command navigation
@@ -15,6 +15,9 @@ A hacker-themed portfolio site styled as a cyberpunk terminal. Built with React 
 - `open github` → Open your GitHub profile
 - `open linkedin` → Open your LinkedIn profile
 - `clear` → Clear terminal history
+- `whoami` → Shows who is logged in
+- `setuser <name>` → can change your username if you want
+- `open website` → opens your actual website portfolio
 
 ### Development
 ```bash
